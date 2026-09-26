@@ -1,5 +1,5 @@
 [app]
-title = MC 24/7 Server Maker
+title = MC 247 Server Maker
 package.name = mcservermaker
 package.domain = com.fahim.mcserver
 source.dir = .
